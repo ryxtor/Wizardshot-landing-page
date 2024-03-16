@@ -32,9 +32,9 @@ const Accordion = () => {
       <AccordionItem title="How is Wizardshot Free?">
         The costs to run a service is really inexpensive as most of the processing happens in the Chrome extension.
         <br /><br />
-        Really - all that we have to pay for is super-secure hosting, awesome 24/7 support and that’s it.
+        Really - all that we have to pay for is <span className='underline'>super-secure hosting</span>, <span className='underline'>awesome 24/7 support</span> and that’s it.
         <br /><br />
-        We built Wizardshot as a stand-alone product with a deep Helpjuice Knowledge Base integration.
+        <strong>We built Wizardshot as a stand-alone product with a deep <span className='underline'>Helpjuice Knowledge Base</span> integration.</strong>
       </AccordionItem>
 
       <AccordionItem title="Is my data secure?">
