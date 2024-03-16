@@ -38,19 +38,19 @@ function Navbar() {
                         <a href="#" className="inline-block mt-0 text-gray-700 underline text-sm lg:text-lg">Home</a>
                     </li>
                     <li>
-                        <a href="#" className="inline-block mt-0 text-black opacity-60 text-sm lg:text-lg">Features</a>
+                        <a href="#" className="inline-block mt-0 text-black hover:underline opacity-60 text-sm lg:text-lg">Features</a>
                     </li>
                     <li>
-                        <a href="#" className="inline-block mt-0 text-black opacity-60 text-sm lg:text-lg">About</a>
+                        <a href="#" className="inline-block mt-0 text-black hover:underline opacity-60 text-sm lg:text-lg">About</a>
                     </li>
                     <li>
-                        <a href="#" className="inline-block mt-0 text-black opacity-60 text-sm lg:text-lg">Help Center & Community</a>
+                        <a href="#" className="inline-block mt-0 text-black hover:underline opacity-60 text-sm lg:text-lg">Help Center & Community</a>
                     </li>
                 </ul>
             </div>
 
             <div className="hidden md:flex gap-2 items-center">
-                <a href="#" className="text-[#666666] text-sm lg:text-lg">Login</a>
+                <a href="#" className="text-[#666666] text-sm hover:underline lg:text-lg">Login</a>
                 <div className='relative'>
                     <div className="absolute -top-4 right-5 text-xs">
                         <p className="font-bold">100% free, forever 🤑</p>
