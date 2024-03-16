@@ -87,7 +87,7 @@ export default function LandingPage() {
       <div className="relative mt-12 lg:mb-24">
         <h1 className="text-3xl lg:text-4xl font-bold text-center underline">+32 MORE FEATURES</h1>
         <h2  className="text-xl lg:text-2xl font-bold text-center">INCLUDING A KB INTEGRATION</h2>
-        <img src="assets/icons/more-features-icon.svg" className="absolute -bottom-4 right-0 lg:-bottom-[65%] lg:-right-[50%]" />
+        <img src="assets/icons/more-features-icon.svg" className="absolute -bottom-4 -right-10 lg:-bottom-[65%] lg:-right-[50%]" />
       </div>
 
       <div className="relative flex justify-center gap-2 my-8 ">
